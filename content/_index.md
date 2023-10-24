@@ -14,8 +14,8 @@ This is the landing page.
 
 ## Profiles
 {{< cards >}}
-  {{< card link="docs" title="Robert Ruan" icon="user" >}}
-  {{< card link="about" title="Xiao Hong" icon="user" >}}
+  {{< card link="docs" title="Ruan Bo" icon="user" >}}
+  {{< card link="about" title="Robert Ruan" icon="user" >}}
 {{< /cards >}}
 
 ## Reference
